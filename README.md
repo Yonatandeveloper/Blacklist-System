@@ -42,4 +42,4 @@ DiscordID - `915624756055801896`
 
 ## License
 
-[MIT](https://github.com/Yonatandeveloper/Blacklist-System/LICENSE
+[MIT](https://github.com/Yonatandeveloper/Blacklist-System/blob/main/LICENSE)
