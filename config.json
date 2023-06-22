@@ -1,10 +1,10 @@
 {
     "botConfig": [
         {
-            "guildid": "1040278719077560320", 
-            "token": "MTEwODcyOTM5MTQ0MzM2NTkyOA.Gzqmj4.BuvL5oUsLnxc9c393Fu74LWWkn_08Q2cU7yHJE",
-            "blacklistchannel": "1114193236118999121",
-            "blacklistmessageid": "1121409539338682450"
+            "guildid": "0", 
+            "token": "token",
+            "blacklistchannel": "0",
+            "blacklistmessageid": "0"
 
         }
     ]
